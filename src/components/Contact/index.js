@@ -1,6 +1,6 @@
 function Contact() {
     return (
-      <div className="container" id="main-area">
+      <div className="container" id="contact">
         <div className="row">
           <div className="col-12">Contact</div>
         </div>
@@ -11,7 +11,7 @@ function Contact() {
               <div className="form-group">
                 <label for="formGroupExampleInput">Name</label>
                 <input
-                  type="text"
+                  type="text"      
                   className="form-control"
                   id="formGroupExampleInput"
                   placeholder="Name"
