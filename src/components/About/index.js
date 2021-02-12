@@ -2,7 +2,7 @@ import Profileimage from "./BiakaZResponsiveSite.jpg"
 function About() {
   return (
     <div>
-       <div className="container pt-3" id="main-area">
+       <div className="container pt-3" id="Aboutme">
             <div className="row">
                 <div className="col-12" id="pagetitle"> 
                     About Me 
