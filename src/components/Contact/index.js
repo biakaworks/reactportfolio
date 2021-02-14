@@ -9,7 +9,7 @@ function Contact() {
           <div className="col-12 col-lg-12">
             <form>
               <div className="form-group">
-                <label for="formGroupExampleInput">Name</label>
+                <label>Name</label>
                 <input
                   type="text"      
                   className="form-control"
@@ -18,7 +18,7 @@ function Contact() {
                 />
               </div>
               <div className="form-group">
-                <label for="formGroupExampleInput2">Email</label>
+                <label>Email</label>
                 <input
                   type="text"
                   className="form-control"
@@ -27,7 +27,7 @@ function Contact() {
                 />
               </div>
               <div className="form-group">
-                <label for="formGroupExampleInput2">Message</label>
+                <label>Message</label>
                 <input
                   type="text"
                   className="form-control"

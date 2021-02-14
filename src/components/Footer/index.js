@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <div>
-          <footer class="footer bg-light card-footer text-muted">
+          <footer className="footer bg-light card-footer text-muted">
       <p>www.biakaworks.com</p>
     </footer>  
     </div>
